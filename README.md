@@ -1,6 +1,6 @@
 ## Hey! 👋 My name is Nikita Chalykh and I am a Python developer
 
-### Technology: Python/Django/DRF/Docker/PostgreSQL/HTML5/CSS/Linux/Nginx/Bash/Unittest
+### Technology: Python/Django/DRF/Docker/PostgreSQL/Linux/Nginx/Bash/Unittest
 
 ### My contacts:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/Nikita223613)
