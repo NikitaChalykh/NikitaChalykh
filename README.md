@@ -61,7 +61,7 @@
 - Integrated **email/SMS logging** to improve monitoring and reduce lost messages.
 - Participated in **release planning**, **production monitoring**, and rapid troubleshooting post-release.
 
---- 
+---
 <a href="https://idaproject.com/" target="_blank">
 <img height="80" src="https://static.cnews.ru/img/book/2023/08/28/idaproject_idaproject.png" alt="idaproject">
 </a> 
@@ -96,3 +96,15 @@
 - Reduced collisions in **BIM models** using **Python and Dynamo**, cutting inconsistencies by **50%**.
 
 ---
+
+## 🎓 Higher education
+
+<a href="https://mpei.ru/Pages/default.aspx" target="_blank">
+<img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoozns7G40O4jq3MIYW2rvxqFyklp-nTTaAw&s" alt="МЭИ">
+</a> 
+<br>
+
+**Master’s Degree**   
+🏛️ Moscow Power Engineering Institute (National Research University), Moscow   
+🏢 Institute for Energy Efficiency Problems      
+🔥 Industrial heat and power engineering 
