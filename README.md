@@ -45,7 +45,7 @@
 - Authored comprehensive **project documentation**, simplifying deployment with a single bash command.
 - Led **onboarding** for new developers and actively participated in task planning and decomposition.
 
----
+<br>
 <a href="https://artw.ru/" target="_blank">
 <img height="30" src="https://artw.ru/local/templates/main_new/assets/images/logo-white.svg" alt="artw">
 </a> 
@@ -61,7 +61,7 @@
 - Integrated **email/SMS logging** to improve monitoring and reduce lost messages.
 - Participated in **release planning**, **production monitoring**, and rapid troubleshooting post-release.
 
----
+<br>
 <a href="https://idaproject.com/" target="_blank">
 <img height="80" src="https://static.cnews.ru/img/book/2023/08/28/idaproject_idaproject.png" alt="idaproject">
 </a> 
@@ -77,8 +77,8 @@
 - Integrated **CRM data** via **Apache Kafka**, automating information exchange and improving operational efficiency.
 - Created a **personalized notification system**, driving additional sales and improving customer retention.
 - Wrote **unit tests** for complex business processes, reducing **critical production errors**.
-
----
+  
+<br>
 <a href="https://www.smartproekt.com/" target="_blank">
 <img height="60" src="https://www.smartproekt.com/local/templates/main/assets/img/logo/logo@2x.png" alt="СмартПроект">
 </a> 
@@ -107,4 +107,4 @@
 **Master’s Degree**   
 🏛️ Moscow Power Engineering Institute (National Research University), Moscow   
 🏢 Institute for Energy Efficiency Problems      
-🔥 Industrial heat and power engineering 
+🔥 Industrial Heat and Power Engineering 
