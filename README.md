@@ -77,23 +77,6 @@
 - Integrated **CRM data** via **Apache Kafka**, automating information exchange and improving operational efficiency.
 - Created a **personalized notification system**, driving additional sales and improving customer retention.
 - Wrote **unit tests** for complex business processes, reducing **critical production errors**.
-  
-<br>
-<a href="https://www.smartproekt.com/" target="_blank">
-<img height="60" src="https://www.smartproekt.com/local/templates/main/assets/img/logo/logo@2x.png" alt="СмартПроект">
-</a> 
-<br>
-<br>
-
-**Technologies:** Python3, Django, PostgreSQL, Revit API, RevitPythonShell, pyRevit, Dynamo for Revit
-
-- Developed and maintained a **technical portal** for exchanging technical tasks and information between company departments.
-- Built a **Telegram bot** to notify employees of new tasks and documents, enhancing responsiveness.
-- Automated routine processes in **Revit** with Python, reducing the average processing time for BIM models by **30%**.
-- Developed a **Python script** for batch updating parameters in **Revit families**, cutting editing time by **3 times**.
-- Automated the creation of **specifications and schedules** from BIM models, speeding up documentation preparation by **50%**.
-- Implemented a system for **BIM model quality control**, reducing errors in project documentation by **40%**.
-- Reduced collisions in **BIM models** using **Python and Dynamo**, cutting inconsistencies by **50%**.
 
 ---
 
