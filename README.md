@@ -3,7 +3,7 @@
 
 ### **My contacts:**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='margin-right: 15px;'>](https://www.linkedin.com/in/NikitaChalykh/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40' style='margin-left: 15px;'>](http://t-do.ru/NikitaChalykh)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40' style='margin-left: 15px;'>](https://t.me/NikitaChalykh)
 
 ---
 
