@@ -40,7 +40,7 @@
 - Implemented integration with **AD** and **OpenLDAP** for **user authentication** via **Kerberos** to improve system compatibility.
 - Developed **file-sharing system** for enhanced client experience.
 - Created a service to perform **periodic tasks** via a Redis-backed queue system, optimizing server load.
-- Conducted **load testing** using **Locust**, improving **RPS for high-traffic APIs by 50%**.
+- Conducted **load testing** using **Locust**.
 - Performed **code reviews** and identified architectural improvements to boost codebase quality.
 - Authored comprehensive **project documentation**, simplifying deployment with a single bash command.
 - Led **onboarding** for new developers and actively participated in task planning and decomposition.
@@ -55,8 +55,8 @@
 **Technologies:** Python3, FastAPI, Tortoise, Aerich, Django, pytest, asyncio, aiohttp, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, YouTrack
 
 - Developed and supported **asynchronous backend services** using **FastAPI**.
-- Created a **microservice** to improve broker loyalty, which led to a **30% increase in activity** on the platform.
-- Developed an **automated email notification service**, resulting in a **20% increase in transactions**.
+- Created a **microservice** to improve broker loyalty.
+- Developed an **automated email notification service**.
 - Built a **command-line utility** to remove duplicate user records caused by issues in an external CRM system.
 - Integrated **email/SMS logging** to improve monitoring and reduce lost messages.
 - Participated in **release planning**, **production monitoring**, and rapid troubleshooting post-release.
@@ -71,9 +71,8 @@
 **Technologies:** Python3, Django, Django REST Framework, Git, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, unittest, Jira
 
 - Developed and maintained **high-traffic backend services** for leading real estate companies.
-- Designed **referral program** API, boosting user engagement and retention.
-- Implemented a **recommendation system** to suggest properties based on client preferences, increasing site engagement by **20%**.
-- Developed a platform for **gift certificate purchases**, increasing sales by **25%**.
+- Designed **referral program** API.
+- Developed a platform for **gift certificate purchases**.
 - Integrated **CRM data** via **Apache Kafka**, automating information exchange and improving operational efficiency.
 - Created a **personalized notification system**, driving additional sales and improving customer retention.
 - Wrote **unit tests** for complex business processes, reducing **critical production errors**.
