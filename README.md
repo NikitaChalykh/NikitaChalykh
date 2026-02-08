@@ -35,7 +35,7 @@
 
 **Project 1**: Virtual Desktop Infrastructure (VDI) and Terminal Access Management Platform
 
-**Technologies: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira
+**Technologies**: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira
 
 - Participated in the design and development of a geographically distributed VDI system with a focus on fault tolerance and scalability.
 - Implemented an asynchronous virtualization operations queue (VM creation, deletion, rebuilding) using a message broker (NATS).
