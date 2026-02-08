@@ -117,4 +117,4 @@
 **Bachelor’s and Master’s Degree**   
 🏛️ Moscow Power Engineering Institute (National Research University), Moscow   
 🏢 Institute of Energy Efficiency and Hydrogen Technologies
-🔥 Thermal power engineering and heat technology
+🔥 Thermal Power Engineering and Heat Technology
