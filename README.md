@@ -33,17 +33,26 @@
 <br>
 <br>
 
-**Technologies:** Python3, FastAPI, Flask, SQLAlchemy, pytest, asyncio, Git, Docker, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira
+**Project 1**: Virtual Desktop Infrastructure (VDI) and Terminal Access Management Platform
 
-- Developed **core backend architecture** for a **secure terminal access server**, enabling access from a unified client device to both secure and open security zones.
-- Introduced **unit testing with pytest**, achieving **86% test coverage** across all APIs.
-- Implemented integration with **AD** and **OpenLDAP** for **user authentication** via **Kerberos** to improve system compatibility.
-- Developed **file-sharing system** for enhanced client experience.
-- Created a service to perform **periodic tasks** via a Redis-backed queue system, optimizing server load.
-- Conducted **load testing** using **Locust**.
-- Performed **code reviews** and identified architectural improvements to boost codebase quality.
-- Authored comprehensive **project documentation**, simplifying deployment with a single bash command.
-- Led **onboarding** for new developers and actively participated in task planning and decomposition.
+- Technologies: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira
+- Participated in the design and development of a geographically distributed VDI system with a focus on fault tolerance and scalability.
+- Implemented an asynchronous virtualization operations queue (VM creation, deletion, rebuilding) using a message broker (NATS).
+- Developed functionality for rebuilding virtual machines in session pools without degrading the user experience.
+- Contributed to the development of APIs and business logic for managing the lifecycle of virtual desktops.
+- Performed code reviews, identified architectural issues, and proposed improvements to code structure and readability.
+
+**Project 2**: Server-Side Software Product for Secure Terminal Access from a Single Client Device to Isolated and Open Security Environments
+
+Technologies: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira
+
+- Designed and implemented the core technical and architectural backend solutions for the project.
+- Introduced unit testing with pytest for all project APIs, including data fixtures and mocks for external services; achieved 86% test coverage.
+- Implemented integration with Active Directory and OpenLDAP for importing and authenticating external users (including Kerberos authentication), increasing product compatibility.
+- Created an auxiliary service for periodic execution of scheduled tasks using a shared Redis queue and multiple workers to offload the main project service.
+- Conducted load testing with Locust, profiled requests, and identified backend bottlenecks, increasing RPS of the most heavily loaded APIs by 50%.
+- Performed code reviews to identify architectural flaws and improve overall code quality.
+- Onboarded new team members, assisted with project ramp-up, and participated in task planning and decomposition.
 
 <br>
 <a href="https://artw.ru/" target="_blank">
