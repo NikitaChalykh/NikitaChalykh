@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-blue?logo=fastapi&logoColor=white)  ![Litestar](https://img.shields.io/badge/Litestar-blue?logo=python&logoColor=white) ![Django Framework](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)  ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-blue?logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-lightgray?logo=flask&logoColor=white)  ![Celery](https://img.shields.io/badge/Celery-blue?logo=celery&logoColor=white)  ![asyncio](https://img.shields.io/badge/Asyncio-blue?logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-blue?logo=swagger&logoColor=white)  
 
 ##### Databases & ORM
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=sqlalchemy&logoColor=white)  ![Piccolo ORM](https://img.shields.io/badge/Piccolo%20ORM-blue?logo=python&logoColor=white) ![tortoise](https://img.shields.io/badge/Tortoise%20ORM-blue?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white)  ![NATS](https://img.shields.io/badge/NATS-black?logo=natsdotio&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-blue?logo=elasticsearch&logoColor=white)  
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=sqlalchemy&logoColor=white)  ![Piccolo ORM](https://img.shields.io/badge/Piccolo%20ORM-blue?logo=python&logoColor=white) ![tortoise](https://img.shields.io/badge/Tortoise%20ORM-blue?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-blue?logo=elasticsearch&logoColor=white)  
 
 ##### Testing & Development
 ![Pytest](https://img.shields.io/badge/Pytest-orange?logo=pytest&logoColor=white)  ![unittest](https://img.shields.io/badge/unittest-blue?logo=python&logoColor=white)  
@@ -22,7 +22,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-blue?logo=nginx&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI/CD-pipeline-blue?logo=circleci&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)  
 
 ##### Other Technologies
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-orange?logo=apachekafka&logoColor=white)  ![Sentry](https://img.shields.io/badge/Sentry-blue?logo=sentry&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-yellow?logo=gnubash&logoColor=white)  ![Git](https://img.shields.io/badge/Git-green?logo=git&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-green?logo=jira&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-black?logo=natsdotio&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-orange?logo=apachekafka&logoColor=white)  ![Sentry](https://img.shields.io/badge/Sentry-blue?logo=sentry&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-yellow?logo=gnubash&logoColor=white)  ![Git](https://img.shields.io/badge/Git-green?logo=git&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-green?logo=jira&logoColor=white)
 
 ---
 
@@ -52,14 +52,14 @@
 <br>
 <br>
 
-**Technologies:** Python3, FastAPI, Tortoise, Aerich, Django, pytest, asyncio, aiohttp, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, YouTrack
+**Technologies**: Python 3, FastAPI, Tortoise ORM, Aerich, Django, pytest, asyncio, aiohttp, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, YouTrack
 
-- Developed and supported **asynchronous backend services** using **FastAPI**.
-- Created a **microservice** to improve broker loyalty.
-- Developed an **automated email notification service**.
-- Built a **command-line utility** to remove duplicate user records caused by issues in an external CRM system.
-- Integrated **email/SMS logging** to improve monitoring and reduce lost messages.
-- Participated in **release planning**, **production monitoring**, and rapid troubleshooting post-release.
+- Developed and maintained a high-load asynchronous backend using FastAPI.
+- Built a separate microservice to increase broker loyalty upon deal completion.
+- Created a service for periodic email campaigns to existing clients when new offers and promotions become available.
+- Developed a scheduled service for automatic removal of duplicate data to keep the client database up to date.
+- Implemented logging of sent emails and SMS messages to reduce message loss and improve system monitoring.
+- Planned, prepared, and executed production releases; monitored post-release errors and promptly resolved возникающие issues.
 
 <br>
 <a href="https://idaproject.com/" target="_blank">
@@ -68,7 +68,7 @@
 <br>
 <br>
 
-Technologies: Python 3, Django, Django REST Framework, Git, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, unittest, Jira
+**Technologies**: Python 3, Django, Django REST Framework, Git, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, unittest, Jira
 
 - Developed and maintained complex projects using Django and Django REST Framework.
 - Implemented a mechanism for adding referral programs for clients, along with an API for managing them in the client’s personal account.
