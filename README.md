@@ -35,7 +35,8 @@
 
 **Project 1**: Virtual Desktop Infrastructure (VDI) and Terminal Access Management Platform
 
-- Technologies: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira
+**Technologies: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira
+
 - Participated in the design and development of a geographically distributed VDI system with a focus on fault tolerance and scalability.
 - Implemented an asynchronous virtualization operations queue (VM creation, deletion, rebuilding) using a message broker (NATS).
 - Developed functionality for rebuilding virtual machines in session pools without degrading the user experience.
@@ -44,7 +45,7 @@
 
 **Project 2**: Server-Side Software Product for Secure Terminal Access from a Single Client Device to Isolated and Open Security Environments
 
-Technologies: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira
+**Technologies**: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira
 
 - Designed and implemented the core technical and architectural backend solutions for the project.
 - Introduced unit testing with pytest for all project APIs, including data fixtures and mocks for external services; achieved 86% test coverage.
@@ -61,6 +62,8 @@ Technologies: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, R
 <br>
 <br>
 
+**Project**: Service for Managing Transactions Between Brokers, Real Estate Agencies, and Clients
+
 **Technologies**: Python 3, FastAPI, Tortoise ORM, Aerich, Django, pytest, asyncio, aiohttp, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, YouTrack
 
 - Developed and maintained a high-load asynchronous backend using FastAPI.
@@ -68,7 +71,7 @@ Technologies: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, R
 - Created a service for periodic email campaigns to existing clients when new offers and promotions become available.
 - Developed a scheduled service for automatic removal of duplicate data to keep the client database up to date.
 - Implemented logging of sent emails and SMS messages to reduce message loss and improve system monitoring.
-- Planned, prepared, and executed production releases; monitored post-release errors and promptly resolved возникающие issues.
+- Planned, prepared, and executed production releases; monitored post-release errors and promptly resolved issues.
 
 <br>
 <a href="https://idaproject.com/" target="_blank">
@@ -76,6 +79,8 @@ Technologies: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, R
 </a> 
 <br>
 <br>
+
+**Project**: Websites and Services for the Largest Residential and Commercial Real Estate Developers in Russia
 
 **Technologies**: Python 3, Django, Django REST Framework, Git, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, unittest, Jira
 
@@ -92,6 +97,8 @@ Technologies: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, R
 </a> 
 <br>
 <br>
+
+**Project**: Internal Portal for Managing Technical Assignments and Interdepartmental Information Exchange
 
 **Technologies**: Python 3, pyRevit, Django, Git, Docker, PostgreSQL, Sentry, Nginx, Celery, unittest, HTML
 
