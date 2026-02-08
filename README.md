@@ -114,7 +114,7 @@
 </a> 
 <br>
 
-**Master’s Degree**   
+**Bachelor’s and Master’s Degree**   
 🏛️ Moscow Power Engineering Institute (National Research University), Moscow   
-🏢 Institute for Energy Efficiency Problems      
-🔥 Industrial Heat and Power Engineering 
+🏢 Institute of Energy Efficiency and Hydrogen Technologies
+🔥 Thermal power engineering and heat technology
