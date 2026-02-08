@@ -33,9 +33,9 @@
 <br>
 <br>
 
-**Project 1**: Virtual Desktop Infrastructure (VDI) and Terminal Access Management Platform
+**Project 1**: Virtual Desktop Infrastructure (VDI) and Terminal Access Management Platform.
 
-**Technologies**: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira
+**Technologies**: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira.
 
 - Participated in the design and development of a geographically distributed VDI system with a focus on fault tolerance and scalability.
 - Implemented an asynchronous virtualization operations queue (VM creation, deletion, rebuilding) using a message broker (NATS).
@@ -43,9 +43,9 @@
 - Contributed to the development of APIs and business logic for managing the lifecycle of virtual desktops.
 - Performed code reviews, identified architectural issues, and proposed improvements to code structure and readability.
 
-**Project 2**: Server-Side Software Product for Secure Terminal Access from a Single Client Device to Isolated and Open Security Environments
+**Project 2**: Server-Side Software Product for Secure Terminal Access from a Single Client Device to Isolated and Open Security Environments.
 
-**Technologies**: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira
+**Technologies**: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira.
 
 - Designed and implemented the core technical and architectural backend solutions for the project.
 - Introduced unit testing with pytest for all project APIs, including data fixtures and mocks for external services; achieved 86% test coverage.
@@ -62,9 +62,9 @@
 <br>
 <br>
 
-**Project**: Service for Managing Transactions Between Brokers, Real Estate Agencies, and Clients
+**Project**: Service for Managing Transactions Between Brokers, Real Estate Agencies, and Clients.
 
-**Technologies**: Python 3, FastAPI, Tortoise ORM, Aerich, Django, pytest, asyncio, aiohttp, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, YouTrack
+**Technologies**: Python 3, FastAPI, Tortoise ORM, Aerich, Django, pytest, asyncio, aiohttp, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, YouTrack.
 
 - Developed and maintained a high-load asynchronous backend using FastAPI.
 - Built a separate microservice to increase broker loyalty upon deal completion.
@@ -80,9 +80,9 @@
 <br>
 <br>
 
-**Project**: Websites and Services for the Largest Residential and Commercial Real Estate Developers in Russia
+**Project**: Websites and Services for the Largest Residential and Commercial Real Estate Developers in Russia.
 
-**Technologies**: Python 3, Django, Django REST Framework, Git, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, unittest, Jira
+**Technologies**: Python 3, Django, Django REST Framework, Git, Docker, PostgreSQL, Sentry, Nginx, Redis, Celery, unittest, Jira.
 
 - Developed and maintained complex projects using Django and Django REST Framework.
 - Implemented a mechanism for adding referral programs for clients, along with an API for managing them in the client’s personal account.
@@ -98,9 +98,9 @@
 <br>
 <br>
 
-**Project**: Internal Portal for Managing Technical Assignments and Interdepartmental Information Exchange
+**Project**: Internal Portal for Managing Technical Assignments and Interdepartmental Information Exchange.
 
-**Technologies**: Python 3, pyRevit, Django, Git, Docker, PostgreSQL, Sentry, Nginx, Celery, unittest, HTML
+**Technologies**: Python 3, pyRevit, Django, Git, Docker, PostgreSQL, Sentry, Nginx, Celery, unittest, HTML.
 
 - Participated in the development and maintenance of an internal Django-based portal for managing technical assignments and exchanging internal information between design departments.
 - Automated Building Information Modeling (BIM) processes by developing Python scripts to streamline routine tasks in BIM software (updating model parameters, batch editing elements, standards compliance checks, and report generation).
