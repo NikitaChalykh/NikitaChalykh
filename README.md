@@ -33,27 +33,16 @@
 <br>
 <br>
 
-**Project 1**: Virtual Desktop Infrastructure (VDI) and Terminal Access Management Platform.
+**Project**: Software for creating a virtual desktop infrastructure with a choice of usage scenarios: VDI, connection to a terminal server, to individual terminal applications, or to physical PCs..
 
-**Technologies**: Python 3, LightStar, Django REST Framework, Piccolo ORM, pytest, asyncio, Git, PostgreSQL, NATS, Dishka, Jira.
+**Technologies**: Python3, LightStar, FastAPI, DRF, PiccoloORM, SQLAlchemy, pytest, asyncio, mypy, PostgreSQL, NATS, ClickHouse, Dishka.
 
-- Participated in the design and development of a geographically distributed VDI system with a focus on fault tolerance and scalability.
-- Implemented an asynchronous virtualization operations queue (VM creation, deletion, rebuilding) using a message broker (NATS).
-- Developed functionality for rebuilding virtual machines in session pools without degrading the user experience.
-- Contributed to the development of APIs and business logic for managing the lifecycle of virtual desktops.
-- Performed code reviews, identified architectural issues, and proposed improvements to code structure and readability.
-
-**Project 2**: Server-Side Software Product for Secure Terminal Access from a Single Client Device to Isolated and Open Security Environments.
-
-**Technologies**: Python 3, FastAPI, SQLAlchemy, pytest, asyncio, Git, PostgreSQL, Redis, Elasticsearch, OpenLDAP, Kerberos, Locust, Jira.
-
-- Designed and implemented the core technical and architectural backend solutions for the project.
-- Introduced unit testing with pytest for all project APIs, including data fixtures and mocks for external services; achieved 86% test coverage.
-- Implemented integration with Active Directory and OpenLDAP for importing and authenticating external users (including Kerberos authentication), increasing product compatibility.
-- Created an auxiliary service for periodic execution of scheduled tasks using a shared Redis queue and multiple workers to offload the main project service.
-- Conducted load testing with Locust, profiled requests, and identified backend bottlenecks, increasing RPS of the most heavily loaded APIs by 50%.
-- Performed code reviews to identify architectural flaws and improve overall code quality.
-- Onboarded new team members, assisted with project ramp-up, and participated in task planning and decomposition.
+- Participated in the design and development of a geo-distributed VDI system, taking fault tolerance and scalability into account.
+- Implemented a virtualization operation queue (VM creation, deletion, and rebuilding) using asynchronous processing and a message broker (NATS).
+- Developed functionality for rebuilding virtual machines in pools without degrading the user experience.
+- Participated in the development of the API and business logic for managing the virtual desktop lifecycle.
+- Improved the integration system with various LDAP directory services. - Conducted code reviews, identified architectural flaws, and suggested improvements to code structure and readability.
+- Conducted load testing in locust, profiled requests, and identified bottlenecks in the project's backend. Managed to increase RPS for the busiest APIs by 50%.
 
 <br>
 <a href="https://artw.ru/" target="_blank">
