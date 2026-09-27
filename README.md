@@ -26,7 +26,7 @@
 
 ---
 
-## 💼 **Work Experience:**: 5+ years
+## 💼 **Work Experience:** 6+ years
 <a href="https://basistech.ru/" target="_blank">
 <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13CCxwtxDpPCEvbnyqYxwZ5yDaNeaLIPwAA&s" alt="artw">
 </a> 
